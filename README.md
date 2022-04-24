@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CoccodrillooXDS</h1>
 <h3 align="center">A random developer from Italy!</h3>
 
-- 🔭 I’m currently working on **Discord bots**
+- 🔭 I’m currently working on **[TTS bot](https://github.com/CoccodrillooXDS/TTS-bot)**
 
 - 🌱 I’m currently learning **Python**
 
-- ⚡ Fun fact **I don’t think that I am funny**
+- ⚡ Fun fact: **Italy has the most UNESCO World Heritage sites in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coccodrillooxds&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="coccodrillooxds" /></p>
 
