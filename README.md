@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CoccodrillooXDS</h1>
 <h3 align="center">A random developer from Italy!</h3>
 
-- 🔭 I’m currently working on [TTS Bot](https://github.com/CoccodrillooXDS/TTS-bot)
+- 🔭 I’m currently working on [TTS Bot](https://github.com/CoccodrillooXDS/TTS-bot) and [GPS](https://github.com/CoccodrillooXDS/GPS)
 
-- 🌱 I’m currently learning **Python** and **C++**
+- 🌱 I’m currently learning **Python**, **C++** and **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
